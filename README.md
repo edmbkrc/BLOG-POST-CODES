@@ -1,2 +1,4 @@
 # BLOG-POST-CODES
-BLOG POSTS
+# BLOG POSTS
+# Data Visualization with R
+# ggplot2 
